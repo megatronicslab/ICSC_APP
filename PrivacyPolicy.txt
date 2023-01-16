@@ -1,7 +1,13 @@
+Note* : App Demo/guest login credentials
+===================================
+UserName : prores001@gmail.com
+Password : Prores001@1234
+====================================
+
 Privacy Policy  
 ==============
 
-Last updated: January 10, 2023
+Last updated: January 16, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
